@@ -89,6 +89,7 @@ Anushka Sisodia @anushkasisodia
 Thanks to Dr Sourav Sen Gupta and TA Song Nan for their teaching and guidance.
 
 ## References
+- <https://www.kaggle.com/datasets/mathurinache/world-happiness-report>
 - <https://plotly.com/python/choropleth-maps/>
 - <https://machinelearningmastery.com/k-fold-cross-validation/>
 - <https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/>
