@@ -18,6 +18,7 @@ SC1015 Mini-Project focusing on "World Happiness" datasets from the years 2015-2
 
 ## Conclusion
 - WIP
+
 ## Models Used
 - Linear Regression
 - Random Forest Regression
@@ -43,7 +44,7 @@ SC1015 Mini-Project focusing on "World Happiness" datasets from the years 2015-2
   - Gradient Boosting Regression
   - Ridge Regression
   - Huber Regression
-- Time Seriese Forecasting
+- Time Series Forecasting
   - Autoregression
   - Autoregressive Integrated Moving Average on Score (ARIMA)
   - Vector Autoregression
