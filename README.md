@@ -12,9 +12,9 @@ Our aim is to help countries increase the well-being of their citizens. One way 
 In order to create good policies in the present, how can countries predict and use their world happiness statistics in the future?
 
 ## Navigation
-1.Download the required files and folders from this repo: `notebooks`, `uncleaned_data`,`plotly` and `requirements.txt`.
+1.Download the required files and folders from this repo: `notebooks`, `uncleaned_data`, `plotly` and `requirements.txt`.
 
-2.Run the command `pip install -r requirements.txt` in your jupyter environment
+2.Run the command `pip install -r requirements.txt` in your jupyter environment.
 
 3.Explore `eda.ipynb`. This notebook includes:
   - Exploratory Data Analysis
@@ -25,12 +25,23 @@ In order to create good policies in the present, how can countries predict and u
   - Data cleaning
   - Data exporting
   
-5.Explore `machine_learning.ipynb` . This notebook includes:
+5.Explore `machine_learning.ipynb`. This notebook includes:
   - Machine Learning (Part 2)
 
 ## Conclusion
 
-Overall, we have learnt a lot from this project. We learnt about and utilised many new concepts that were not taught in the lab. We also realised that we have have used the wrong approach by trying to utilise time series forcasting, which is not as effective when used on yearly data. This experience has been fruitful for us and we will remember these new concepts for other data science projects going forward.
+Overall, we have learnt a lot from this project. We discovered and utilised many new concepts that were not taught to us in labs. We managed to conclude that Autoregression(AR) on score is the best model for forecasting. However, we also realised that we may have used the wrong approach by trying to utilise time series forecasting, which is not as effective when used on yearly data. This experience has been fruitful, and we will remember these new concepts for other data science projects going forward.
+
+## Libraries Used
+- ipython 8.2.0
+- matplotlib 3.4.3
+- numpy 1.21.2
+- pandas 1.3.3
+- plotly 5.7.0
+- scikit_learn 1.0.2
+- scipy 1.8.0
+- seaborn 0.11.2
+- statsmodels 0.13.2
 
 ## Models Used
 - Linear Regression
@@ -63,7 +74,6 @@ Overall, we have learnt a lot from this project. We learnt about and utilised ma
   - Vector Autoregression
 
 ## Contributors
-
 @xaynezz Andrew Oak Soe Khant - Code Refactoring, Exploratory Data Analysis, Data Cleaning, Regression Models, Time Series Models
 @Tirth3033 Tirth Tusharbhai Oza - Exploratory Data Analysis, Slides & Video
 @anushkasisodia Anushka Sisodia - Exploratory Data Analysis, Slides & Video
