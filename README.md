@@ -27,10 +27,11 @@ In order to create good policies in the present, how can countries predict and u
   
 5.Explore `machine_learning.ipynb`. This notebook includes:
   - Machine Learning (Part 2)
+  - Recommendations
 
 ## Conclusion
 
-Overall, we have learnt a lot from this project. We discovered and utilised many new concepts that were not taught to us in labs. We managed to conclude that Autoregression(AR) on score is the best model for forecasting. However, we also realised that we may have used the wrong approach by trying to utilise time series forecasting, which is not as effective when used on yearly data. This experience has been fruitful, and we will remember these new concepts for other data science projects going forward.
+Overall, we have learnt a lot from this project. We discovered and utilised many new concepts that were not taught to us in labs. We managed to conclude that Autoregression(AR) on Score is the best model for forecasting. However, we also realised that we may have used the wrong approach by trying to utilise time series forecasting, which is not as effective when used on yearly data. This experience has been fruitful, and we will remember these new concepts for other data science projects going forward.
 
 ## Libraries Used
 - ipython 8.2.0
@@ -73,20 +74,26 @@ Overall, we have learnt a lot from this project. We discovered and utilised many
   - Autoregressive Integrated Moving Average on Score (ARIMA)
   - Vector Autoregression
 
+
 ## Contributors
-@xaynezz Andrew Oak Soe Khant - Code Refactoring, Exploratory Data Analysis, Data Cleaning, Regression Models, Time Series Models
-@Tirth3033 Tirth Tusharbhai Oza - Exploratory Data Analysis, Slides & Video
-@anushkasisodia Anushka Sisodia - Exploratory Data Analysis, Slides & Video
+Andrew Oak Soe Khant @xaynezz 
+  - Code Refactoring, Exploratory Data Analysis, Data Cleaning, Regression Models, Time Series Models
+
+Tirth Tusharbhai Oza @Tirth3033 
+  - Exploratory Data Analysis, Slides & Video
+
+Anushka Sisodia @anushkasisodia  
+  - Exploratory Data Analysis, Slides & Video
 
 ## Acknowledgements
 Thanks to Dr Sourav Sen Gupta and TA Song Nan for their teaching and guidance.
 
 ## References
-<https://plotly.com/python/choropleth-maps/>
-<https://machinelearningmastery.com/k-fold-cross-validation/>
-<https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/>
-<https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/>
-<https://www.machinelearningplus.com/time-series/vector-autoregression-examples-python/>
-<https://towardsdatascience.com/regression-in-the-face-of-messy-outliers-try-huber-regressor-3a54ddc12516>
-<https://towardsdatascience.com/ridge-and-lasso-regression-a-complete-guide-with-python-scikit-learn-e20e34bcbf0b>
-<https://towardsdatascience.com/machine-learning-basics-random-forest-regression-be3e1e3bb91a>
+- <https://plotly.com/python/choropleth-maps/>
+- <https://machinelearningmastery.com/k-fold-cross-validation/>
+- <https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/>
+- <https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/>
+- <https://www.machinelearningplus.com/time-series/vector-autoregression-examples-python/>
+- <https://towardsdatascience.com/regression-in-the-face-of-messy-outliers-try-huber-regressor-3a54ddc12516>
+- <https://towardsdatascience.com/ridge-and-lasso-regression-a-complete-guide-with-python-scikit-learn-e20e34bcbf0b>
+- <https://towardsdatascience.com/machine-learning-basics-random-forest-regression-be3e1e3bb91a>
