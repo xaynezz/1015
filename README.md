@@ -79,10 +79,10 @@ Overall, we have learnt a lot from this project. We discovered and utilised many
 Andrew Oak Soe Khant @xaynezz 
   - Code Refactoring, Exploratory Data Analysis, Data Cleaning, Regression Models, Time Series Models
 
-Tirth Tusharbhai Oza @Tirth3033 
+Oza Tirth Tusharbhai  @Tirth3033 
   - Exploratory Data Analysis, Slides & Video
 
-Anushka Sisodia @anushkasisodia  
+Sisodia Anushka @anushkasisodia  
   - Exploratory Data Analysis, Slides & Video
 
 ## Acknowledgements
