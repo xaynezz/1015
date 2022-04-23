@@ -1,12 +1,13 @@
 # SC1015 Mini Project - Understanding Happiness
-![image](https://user-images.githubusercontent.com/91424179/164915541-5272a8eb-802a-4cb0-9013-9490d1c69531.png)
+![image](https://user-images.githubusercontent.com/91424179/164943113-e92d4941-3fa7-42ba-8e4b-9ecf50e5da0f.png)
+
 
 
 ## About
 SC1015 Mini-Project focusing on "World Happiness" datasets from the years 2015-2021.
 
 ## Practical Motivation
-Our aim is to help countries increase the well-being of their citizens. One way they can do this is by making use of The World Happiness Report, a publication of the United Nations Sustainable Development Solutions Network. It contains rankings of national happiness, based on respondents' ratings of their own lives, which also correlates with various quality of life factors. 
+Our aim is to help countries increase the well-being of their citizens. One way they can do this is by making use of "The World Happiness Report", a publication of the United Nations Sustainable Development Solutions Network. It contains rankings of national happiness, based on respondents' ratings of their own lives, which also correlates with various quality of life factors. 
 
 ## Problem Definition
 In order to create good policies in the present, how can countries predict and use their world happiness statistics in the future?
@@ -52,7 +53,7 @@ Overall, we have learnt a lot from this project. We discovered and utilised many
 - Huber Regression
 - Autoregression
 - Autoregressive Integrated Moving Average on Score (ARIMA)
-- Vector Autoregression
+- Vector Autoregression (VAR)
 
 ## What did we learn from this project?
 - Adapting and using concepts taught in lab
@@ -72,7 +73,7 @@ Overall, we have learnt a lot from this project. We discovered and utilised many
 - Time Series Forecasting
   - Autoregression
   - Autoregressive Integrated Moving Average on Score (ARIMA)
-  - Vector Autoregression
+  - Vector Autoregression (VAR)
 
 
 ## Contributors
