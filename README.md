@@ -4,7 +4,7 @@
 
 
 ## About
-SC1015 Mini-Project focusing on "World Happiness" datasets from the years 2015-2021.
+SC1015 Lab Group SC14 Mini-Project focusing on "World Happiness" datasets from the years 2015-2021.
 
 ## Practical Motivation
 Our aim is to help countries increase the well-being of their citizens. One way they can do this is by making use of "The World Happiness Report", a publication of the United Nations Sustainable Development Solutions Network. It contains rankings of national happiness, based on respondents' ratings of their own lives, which also correlates with various quality of life factors. 
@@ -78,13 +78,13 @@ Overall, we have learnt a lot from this project. We discovered and utilised many
 
 ## Contributors
 Andrew Oak Soe Khant @xaynezz 
-  - Code Refactoring, Exploratory Data Analysis, Data Cleaning, Regression Models, Time Series Models
+  - Code Refactoring, Exploratory Data Analysis, Data Cleaning, Regression Models, Time Series Models, Slides, Video Editing
 
 Oza Tirth Tusharbhai  @Tirth3033 
-  - Exploratory Data Analysis, Slides & Video
+  - Exploratory Data Analysis, Slides, Presentation
 
 Sisodia Anushka @anushkasisodia  
-  - Exploratory Data Analysis, Slides & Video
+  - Exploratory Data Analysis, Slides, Presentation
 
 ## Acknowledgements
 Thanks to Dr Sourav Sen Gupta and TA Song Nan for their teaching and guidance.
